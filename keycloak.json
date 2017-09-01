@@ -43,7 +43,7 @@
             "containers":[
               {
                 "name":"keycloak-server",
-                "image":"jboss/keycloak-postgres",
+                "image":"jboss/keycloak-ha-postgres",
                 "ports":[
                   {
                     "containerPort":8080,
