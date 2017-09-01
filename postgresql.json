@@ -59,15 +59,15 @@
             ],
             "env": [
               {
-                "name": "POSTGRESQL_USER",
+                "name": "POSTGRES_USER",
                 "value": "keycloak"
               },
               {
-                "name": "POSTGRESQL_PASSWORD",
+                "name": "POSTGRES_PASSWORD",
                 "value": "password"
               },
               {
-                "name": "POSTGRESQL_DATABASE",
+                "name": "POSTGRES_DATABASE",
                 "value": "userdb"
               },
               {
